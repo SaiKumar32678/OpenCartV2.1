@@ -1,44 +1,10 @@
-16:30:32.395 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:30:32.401 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-16:30:32.402 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:30:32.403 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:30:32.403 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:30:32.404 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:30:32.407 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:30:32.407 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:30:32.407 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:30:32.407 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:30:32.408 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:30:32.409 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:30:32.410 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:30:32.410 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:30:32.410 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:30:32.410 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:30:32.418 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--1137503724\testng-customsuite.xml
-
-16:30:32.452 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
-16:30:32.796 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@24faea88: 146 ms
-16:30:32.814 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@592e843a: 17 ms
-16:30:32.827 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5241cf67: 13 ms
-16:30:32.849 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2f058b8a: 21 ms
-16:30:32.860 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@30ea8c23: 11 ms
-16:30:32.860 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7b139eab: 0 ms
-16:32:26.813 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\OpenCart\master.xml"
-16:32:26.995 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Admin\eclipse-workspace\OpenCart\master.xml
-
-16:32:31.454 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
-16:32:31.454 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debug log message
-16:32:31.506 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
-16:32:32.042 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
-16:32:32.044 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
-16:32:33.124 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
-16:32:33.148 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
-16:32:33.148 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-12:20:31.001 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\OpenCart\master.xml"
-12:20:31.311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Admin\eclipse-workspace\OpenCart\master.xml
-
-12:20:35.947 [main] INFO  testCases.TC002_LoginTest - ****** Startign TC_002_LoginTest *****
-12:20:37.226 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest *****
+16:35:49.912 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+16:35:49.915 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+16:35:54.065 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+16:35:54.065 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - This is a debug log message
+16:35:54.320 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+16:35:54.855 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+16:35:54.856 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:35:55.954 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:35:55.966 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+16:35:55.966 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****

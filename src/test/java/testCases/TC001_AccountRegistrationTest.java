@@ -9,7 +9,7 @@ import testBase.TestBaseClass;
 
 public class TC001_AccountRegistrationTest extends TestBaseClass {	
 	
-	@Test
+	@Test(groups= {"Regression","Master"})
 	public void verify_Account_Registration() {
 		logger.info("***** Starting TC001_AccountRegistrationTest  ****");
 		logger.debug("This is a debug log message");
