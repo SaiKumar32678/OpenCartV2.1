@@ -1,0 +1,38 @@
+16:33:03.628 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+16:34:23.931 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\OpenCart\testSuites\crossBrowserTest.xml"
+16:34:27.383 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+16:34:27.383 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - This is a debug log message
+16:34:27.666 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+16:34:27.666 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - This is a debug log message
+16:34:27.739 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+16:34:27.784 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+16:34:37.860 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed: element not interactable
+  (Session info: chrome=131.0.6778.85)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5216f4733dc4942e425d2bfc0fbd049c, clickElement {id=f.E878F8EBA6FA88E22D9C14A675751342.d.68A4895193C3A8754880F85F09A59AD8.e.51}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.85, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55006}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55006/devtoo..., se:cdpVersion: 131.0.6778.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5216f4733dc4942e425d2bfc0fbd049c)] -> xpath: (//a[normalize-space()='Register'])[1]]
+Session ID: 5216f4733dc4942e425d2bfc0fbd049c
+16:34:37.862 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+16:34:47.880 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed: element not interactable
+  (Session info: chrome=131.0.6778.85)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5216f4733dc4942e425d2bfc0fbd049c, clickElement {id=f.E878F8EBA6FA88E22D9C14A675751342.d.68A4895193C3A8754880F85F09A59AD8.e.51}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.85, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\Admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55006}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55006/devtoo..., se:cdpVersion: 131.0.6778.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5216f4733dc4942e425d2bfc0fbd049c)] -> xpath: (//a[normalize-space()='Register'])[1]]
+Session ID: 5216f4733dc4942e425d2bfc0fbd049c
+16:34:47.880 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+16:35:44.702 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\OpenCart\testSuites\crossBrowserTest.xml"
+16:35:44.910 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCart\testSuites\crossBrowserTest.xml
+
+16:35:48.103 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+16:35:48.104 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - This is a debug log message
+16:35:48.167 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+16:35:48.684 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+16:35:48.686 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:35:49.886 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
