@@ -30,7 +30,7 @@ public class TC002_LoginTest extends TestBaseClass {
 		//MyAccount
 		MyAccountPage macc=new MyAccountPage(driver);
 		boolean targetPage=macc.isMyAccountPageExists();
-		
+		//Assertions
 		Assert.assertTrue(targetPage);//Assert.assertEquals(targetPage, true,"Login failed");
 		}
 		catch(Exception e)
