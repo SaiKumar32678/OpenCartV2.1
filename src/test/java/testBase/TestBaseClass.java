@@ -18,9 +18,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
-
-
-
 public class TestBaseClass {
 	public static WebDriver driver;
 	public Logger logger;
@@ -89,5 +86,4 @@ public class TestBaseClass {
 		return targetFilePath;
 	}
 }
-
 

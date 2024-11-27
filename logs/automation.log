@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 09:53:26.773 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
 09:53:26.776 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
 09:53:26.793 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
@@ -20,3 +21,15 @@
 09:53:45.751 [main] INFO  testCases.TC003_LoginTestDDT - ***** Finished TC_003_LoginDDT ******
 09:53:45.756 [main] INFO  testCases.TC003_LoginTestDDT - ***** stating TC_003_LoginDDT ******
 09:53:50.879 [main] INFO  testCases.TC003_LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+=======
+16:35:49.912 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+16:35:49.915 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+16:35:54.065 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  ****
+16:35:54.065 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - This is a debug log message
+16:35:54.320 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+16:35:54.855 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+16:35:54.856 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+16:35:55.954 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:35:55.966 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+16:35:55.966 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+>>>>>>> master2
